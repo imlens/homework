@@ -6,4 +6,4 @@ None
 
 # Announcments:
 ### July 12 2021
-I'm removing Bootstrap, as it has been causing problems for me.
+I'm removing Bootstrap, as it has been causing problems for me. I might have to start from scratch though.
